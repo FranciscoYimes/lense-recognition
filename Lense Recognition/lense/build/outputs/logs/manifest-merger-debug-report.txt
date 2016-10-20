@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [Lense Recognition:openCVLibrary2410:unspecified] /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/Lense Recognition/openCVLibrary2410/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha2] /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+		INJECTED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:13:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:16:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:19:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:22:9-53
+uses-feature#android.harware.camera.front.autofocus
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:25:9-62
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:28:9-53
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:31:5-83
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:31:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:32:30-85
+application
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:34:5-51:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha2] /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:36:9-45
+	android:theme
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:38:9-40
+activity#id.bustomi.d3ti.uns.readmysign2.MainActivity
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:43:13-50
+	android:label
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:41:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/src/main/AndroidManifest.xml:47:27-74

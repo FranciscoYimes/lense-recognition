@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="special_edit_text__text_color">#333333</color>
+    <color name="special_edit_text__hint_color">#ff626262</color>
+
+    <color name="color_primary">#17458A</color>
+    <color name="color_primary_dark">#17458A</color>
+
+    <color name="strong_alert">#7f0000</color>
+    <color name="dark_red">#560200</color>
+
+    <color name="color_accent">#17458A</color>
+    <color name="color_accent_dark">#17458A</color>
+    <color name="icon_color">#333333</color>
+    <color name="login__text_color">#FFFFFF</color>
+
+    <color name="blue_lense">#131f2d</color>
+
+    <color name="purple">#780D84</color>
+    <color name="dark_purple">#490A50</color>
+
+    <color name="lense_color">#1D1E4F</color>
+
+    <color name="trans">#00000000 </color>
+
+    <color name="new_color_back">#0065B3 </color>
+    <color name="new_color_buttom">#6699FF </color>
+    <color name="new_black_blue">#17458A </color>
+
+    <color name="dark_green">#3fb306</color>
+    <color name="green">#52cc52</color>
+    <color name="red">#EB2323</color>
+
+
+</resources>

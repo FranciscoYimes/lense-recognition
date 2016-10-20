@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef0c8364efe2e1b72b3903d6ba588d6cbde9aa6f">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha2_8e7f98283f2e6072555557822b694e09f4ff5143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_0e237d00bb51f77e434d0a751ec8a049c52ea79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fce73550bbc15b5902e10411d60946ef571cb37">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_821f2f767606909e64a877977930281169aa87eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa52b18e81a499129a981d0d8681b8b030130a6d">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha2_4a70c7a09baf06a5ae1efaa15947ed1668cc4781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef0c8364efe2e1b72b3903d6ba588d6cbde9aa6f">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha2_a17342186ef203b65e5759e52d19ff6482c37886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="21db56f9ff700afaea3d0eddcb1230958cb1a2b0">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b770374c4198686d9f07bc4c9e8a8940b8b2a9dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_a48f8f68eaf538ab81a55bcdb1407f707bdc1878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98cd4814e9f91cc0d8d0354c24e0fdacd6dac4b9">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_135cee67bb2f3ab1f9f3a998dea2af84f1edd4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_335f30176fd707d603e98617ae7007b33bb8bec0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6c41342c0bfef2714de2dee140d08b746dae2e4a">
+        <dex dex="/Users/franciscoyimesinostroza/Desktop/Lense/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b953a6a273241099af58311c4aff9eab4031e7f/classes.dex" />
+    </item>
+
+</items>

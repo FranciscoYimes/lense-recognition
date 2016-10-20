@@ -1,0 +1,7 @@
+#Thu Oct 20 15:22:49 CLT 2016
+base.0=/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b770374c4198686d9f07bc4c9e8a8940b8b2a9dd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_821f2f767606909e64a877977930281169aa87eb/classes.dex
+base.1=/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_821f2f767606909e64a877977930281169aa87eb
+file.0=/Users/franciscoyimesinostroza/Desktop/Lense Recognition/lense/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b770374c4198686d9f07bc4c9e8a8940b8b2a9dd/classes.dex
